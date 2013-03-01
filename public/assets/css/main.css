@@ -1,0 +1,58 @@
+li {
+	display:inline;
+	margin:20px;
+}
+
+ul {
+	width:100%;
+	position:relative;
+	text-align:center;
+}
+
+td {
+	padding:9px;
+	text-align: center;
+}
+
+th {
+	padding:9px;
+	border-bottom: 1px solid;
+}
+
+table {
+	margin: 0 auto;
+	width: 100%;
+}
+
+.first_link {
+	padding:5px;
+}
+
+.previous_link {
+	padding:5px;
+}
+
+.next_link {
+	padding:5px;
+}
+
+.last_link {
+	padding:5px;
+}
+
+.page_link {
+	padding:3px;
+}
+
+.info_text {
+	float:right;
+}
+
+.communityList {
+	text-align:left;
+	display:block;
+}
+
+.active_page {
+	background-color:#E8E86B;
+}
