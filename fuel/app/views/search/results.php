@@ -95,7 +95,7 @@
                         }
 			echo '
 			<li class="communityList">
-                <a href="/public/communities/index/'.$community->id.'"><h4>'.$community->name.'</h4></a>
+                <a href="/public/communities/view/'.$community->id.'"><h4>'.$community->name.'</h4></a>
                 <p> Location: '.$community->location.' </p>
                 <p> Zip: '.$community->zip.'</p>
                 <p> Community type: '.$communitytype.' </p>    
